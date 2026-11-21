@@ -1,1 +1,3 @@
-Hyper text morcup language ,used to create webpage
+Hyper text morcup language ,used to create webpage.
+CSS used to style the web page.
+javscript is used interactive data.
